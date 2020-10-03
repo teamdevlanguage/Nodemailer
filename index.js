@@ -1,4 +1,4 @@
-const nodemailer = require('nodemailer');
+import { createTransport } from 'nodemailer';
 
 const transporter = nodemailer.createTransport({
     host: "br758.hostgator.com.br",
