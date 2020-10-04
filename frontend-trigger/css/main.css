@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#background {
+    height: 85vh;
+    background-color: #ffc800;
+    padding-top: 100px;
+    align-content: center;
+    text-align: center;
+}
+
+.card {
+    height: 300px;
+    width: 400px;
+}
